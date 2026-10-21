@@ -113,4 +113,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   emailButtonText: { color: '#FFF', fontSize: 18, fontWeight: 'bold' },
-});
+}); 
